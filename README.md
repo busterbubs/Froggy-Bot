@@ -6,4 +6,9 @@ Public Release Date:
 
 Thursday Jan. 30, 2014
 
-Version 1.0.0
+Jan. 30, 2014
+1.0.0:
+1. Public release.
+
+
+
